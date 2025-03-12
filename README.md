@@ -1,4 +1,4 @@
-# Name Provider Data Generator for Minecraft Wiki
+# NameProvider Data Generator (Bedrock)
 
 A Python script that generates Lua data for [Module:NameProviderBedrock](https://zh.minecraft.wiki/w/Module:NameProviderBedrock) on Minecraft Wiki (ZH). The script downloads Minecraft Bedrock Edition language files and converts them into the required Lua data format.
 
