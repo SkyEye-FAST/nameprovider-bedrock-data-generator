@@ -1,4 +1,4 @@
-"""A script to download and convert Minecraft Bedrock language files into Lua data format."""
+"""A script to generate data for Module:NameProviderBedrock"""
 
 from datetime import datetime, timezone
 
